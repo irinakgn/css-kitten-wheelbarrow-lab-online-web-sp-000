@@ -35,7 +35,11 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
+<<<<<<< HEAD
 img[alt="Kitty 5"] {
+=======
+img[value="Kitty 5"] {
+>>>>>>> eba24f77e7bfc1760f5428970cff8922fc2c1451
   position: absolute;
   z-index: 3;
   top: 217px;
